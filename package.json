@@ -1,0 +1,17 @@
+{
+  "name": "spike-pdf-svg-fill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Franz",
+  "license": "ISC",
+  "devDependencies": {
+    "mustache": "^4.0.1",
+    "svelte": "^3.24.1",
+    "svg-to-pdfkit": "^0.1.8"
+  }
+}
